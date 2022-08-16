@@ -4,10 +4,10 @@ I'm an international development consultant who is currently based in Bangalore,
 
 
 **I'm passionate about:**  
-✔️ Arsenal Football Club 🔴  
-✔️ Survey data 📄  
+✔️ Arsenal FC 🔴  
+✔️ Research methods 📄  
 ✔️ Social justice ✊  
-✔️ Coding in R, Stata & Latex 👨‍💻  
+✔️ R, Stata & LaTeX 👨‍💻  
 ✔️ Development and labour economics via applied econometrics 🤓    
 ✔️ Supporting my local gin & tonic industry 🍸  
 
