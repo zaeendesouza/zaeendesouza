@@ -4,15 +4,14 @@ I'm an international development consultant who is currently based in Bangalore,
 
 
 I'm passionate about (in no order):
-  - ✔️ Arsenal Football Club
-  - ✔️ Survey data
-  - ✔️ Social justice
+  - ✔️ Arsenal Football Club 🔴
+  - ✔️ Survey data 📄
+  - ✔️ Social justice ✊
   - ✔️ Coding in R, Stata & Latex 👨‍💻 
   - ✔️ Development and labour economics via applied econometrics 🤓
-  - ✔️ Accessibility and inclusion 
   
  A social cause I take very seriously:
-  - 🍸 Supporting my local gin & tonic industry
+  - Supporting my local gin & tonic industry 🍸 
 
 I dislike (in no order):
 - ❌ Bigotry, in any of its many unpleasment forms
