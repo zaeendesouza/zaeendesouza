@@ -5,17 +5,17 @@ I'm currently based in Bangalore, India. I love economics, and my goal is to bec
 
 **I'm passionate about:**  
 ✔️ Arsenal FC 🔴  
-✔️ Research methods 📄  
+✔️ Research methods and research design 📄  
 ✔️ Teaching R programming 💻  
 ✔️ Social justice ✊  
 ✔️ R, Stata & LaTeX 👨‍💻  
 ✔️ Development and labour economics via applied econometrics 🤓    
 ✔️ Supporting my local gin & tonic industry 🍸  
 
-**I deeply dislike:**  
+**I dislike:**  
 ❌ Bigotry in any shape or form   
 ❌ Tottenham  
 ❌ Paywalls  
- 
+❌ Misuse of power  
  
 📢 You can follow me on twitter [@zaeendesouza](https://twitter.com/zaeendesouza?lang=en).
