@@ -17,5 +17,4 @@ I'm an international development consultant who is currently based in Bangalore,
 ❌ Python zealots  
  
  
-📢 You can (or should 😋) follow me on twitter @zaeendesouza
--->
+📢 You can (or should 😋) follow me on twitter [@zaeendesouza](https://twitter.com/zaeendesouza?lang=en)
