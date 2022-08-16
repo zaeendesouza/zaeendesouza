@@ -13,9 +13,9 @@ I'm currently based in Bangalore, India. I love economics, and my goal is to bec
 ✔️ Supporting my local gin & tonic industry 🍸  
 
 **I deeply dislike:**  
-❌ Bigotry in any form   
-❌ Tottenham
-❌ Paywalls
+❌ Bigotry in any shape or form   
+❌ Tottenham  
+❌ Paywalls  
  
  
 📢 You can follow me on twitter [@zaeendesouza](https://twitter.com/zaeendesouza?lang=en).
