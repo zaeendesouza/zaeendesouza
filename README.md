@@ -12,7 +12,7 @@ I'm currently based in Bangalore, India. I work as a consultant in international
 ✔️ Development and labour economics via applied econometrics 🤓    
 ✔️ Supporting my local gin & tonic industry 🍸  
 
-**I dislike:**  
+**I dislike and do not support:**  
 ❌ Bigotry in any shape or form   
 ❌ Tottenham  
 ❌ Paywalls    
