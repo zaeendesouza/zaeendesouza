@@ -8,7 +8,6 @@ I'm currently based in Bangalore, India. I work as a consultant in international
 ✔️ Research methods and research design 📄  
 ✔️ Teaching R programming 💻  
 ✔️ Social justice ✊  
-✔️ R, Stata & LaTeX 👨‍💻  
 ✔️ Development and labour economics via applied econometrics 🤓    
 ✔️ Supporting my local gin & tonic industry 🍸  
 
