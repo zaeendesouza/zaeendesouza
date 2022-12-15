@@ -5,8 +5,8 @@ I'm currently based in Bangalore, India. I work as a consultant in international
 
 **I'm passionate about:**  
 ✔️ Arsenal FC 🔴  
-✔️ Econometrics, research methods & research design 📄  
-✔️ Teaching R programming & Stata 💻  
+✔️ Research methods & research design 📄  
+✔️ Teaching R & Stata 💻  
 ✔️ Social justice ✊  
 ✔️ Labour economics & applied econometrics 🤓    
 ✔️ Supporting my local gin & tonic industry 🍸  
