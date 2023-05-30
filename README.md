@@ -9,10 +9,6 @@ I'm currently based in Bangalore, India. I work as a consultant in international
 ✔️ Teaching R & Stata 💻  
 ✔️ Labour economics & applied econometrics 🤓    
 ✔️ Supporting my local gin & tonic industry 🍸  
-
-**I dislike and do not support:**  
-❌ Bigotry in any shape or form   
-❌ Tottenham  
-❌ Paywalls    
+ 
  
 📢 You can follow me on twitter [@zaeendesouza](https://twitter.com/zaeendesouza?lang=en).
