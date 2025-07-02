@@ -1,6 +1,17 @@
 ### Hi, i'm Zaeen 👋
 
-I'm currently based in Bangalore, India. I work as a consultant in international development (health & education), where I focus on impact evaluation and M&E. I love economics, and my goal is to become an economist *one day*. I enjoy making, using and learning from the different digital public goods that people make (my own small contribution is [here](https://zaeendesouza.shinyapps.io/ODK2Doc/)). I also enjoy data visualisation 🎨, graphs 📈 and pretty presentations 👩‍🏫.
+I'm currently based in West Africa (The Gambia). I work as a technical assistant and economist as part of the [ODI Fellowship](https://odi.org/en/fellowship-scheme/). Prior to this, I worked in international development (health & education), where I focused on impact evaluation and M&E. I love economics---specifically, applied econometrics, labour and the microeconomics of development. I enjoy making, using and learning from the different digital public goods that people make and share. I also enjoy data visualisation 🎨, graphs 📈 and pretty presentations 👩‍🏫.
+
+**Public Goods I have worked created/co-created** 
+Here are some of my personal contributions to the world of digital public goods - they are all built either in R or Stata---Shiny apps are freely accessible, while Stata packages can be installed via ssc.
+
+1. [ODK2Doc](https://zaeendesouza.shinyapps.io/ODK2Doc/)
+2. [CascadeR](https://zaeendesouza.shinyapps.io/CascadeR/)
+3. [ALLCATPLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:IjCSPb-OGe4C)
+4. [ALLCATPLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:IjCSPb-OGe4C)
+5. [RATIO_PLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:2osOgNQ5qMEC)
+6. [MEAN_CI_PLOT (Stata)(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:d1gkVwhDpl0C)
+7. [PLOT_CONFIDENTLY (Stata)[https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:9yKSN-GCB0IC]
 
 
 **I'm passionate about:**  
