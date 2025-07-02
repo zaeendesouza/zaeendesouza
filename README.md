@@ -2,7 +2,7 @@
 
 I'm currently based in West Africa (The Gambia). I work as a technical assistant and economist as part of the [ODI Fellowship](https://odi.org/en/fellowship-scheme/). Prior to this, I worked in international development (health & education), where I focused on impact evaluation and M&E. I love economics---specifically, applied econometrics, labour and the microeconomics of development. I enjoy making, using and learning from the different digital public goods that people make and share. I also enjoy data visualisation 🎨, graphs 📈 and pretty presentations 👩‍🏫.
 
-**Public Goods I have worked created/co-created** 
+**Public Goods I have worked created/co-created** <br>
 Here are some of my personal contributions to the world of digital public goods - they are all built either in R or Stata---Shiny apps are freely accessible, while Stata packages can be installed via ssc.
 
 1. [ODK2Doc](https://zaeendesouza.shinyapps.io/ODK2Doc/)
