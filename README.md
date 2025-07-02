@@ -10,8 +10,8 @@ Here are some of my personal contributions to the world of digital public goods 
 3. [ALLCATPLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:IjCSPb-OGe4C)
 4. [ALLCATPLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:IjCSPb-OGe4C)
 5. [RATIO_PLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:2osOgNQ5qMEC)
-6. [MEAN_CI_PLOT (Stata)(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:d1gkVwhDpl0C)
-7. [PLOT_CONFIDENTLY (Stata)[https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:9yKSN-GCB0IC]
+6. [MEAN_CI_PLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:d1gkVwhDpl0C)
+7. [PLOT_CONFIDENTLY (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:9yKSN-GCB0IC)
 
 
 **I'm passionate about:**  
