@@ -10,7 +10,7 @@ I'm currently based in West Africa (The Gambia). I work as a technical assistant
 ✔️ Supporting my local gin & tonic industry 🍸  
  
 **Some public goods that I have created/co-created** <br>
-Here are some of my personal contributions to the world of digital public goods - they are all built either in R or Stata---Shiny apps are freely accessible, while Stata packages can be installed via ssc.
+Here are some of my personal contributions to the world of digital public goods - they are all built either in ```R``` or ```Stata```. All the ```RShiny``` apps are freely accessible, while Stata packages can be installed via ssc.
 
 **RShiny**<br>
 1. [ODK2Doc](https://zaeendesouza.shinyapps.io/ODK2Doc/)
