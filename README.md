@@ -15,6 +15,7 @@ Here are some of my personal contributions to the world of digital public goods 
 **RShiny**<br>
 1. [ODK2Doc](https://zaeendesouza.shinyapps.io/ODK2Doc/)
 2. [CascadeR](https://zaeendesouza.shinyapps.io/CascadeR/)
+3. [MergeR](https://zaeendesouza.shinyapps.io/MergeR/)
 
 **Stata**<br>  
 1. [ALLCATPLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:IjCSPb-OGe4C)
