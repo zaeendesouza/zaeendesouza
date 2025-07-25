@@ -24,7 +24,7 @@ Here are some of my personal contributions to the world of digital public goods 
 4. [MEAN_CI_PLOT (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:d1gkVwhDpl0C)
 5. [PLOT_CONFIDENTLY (Stata)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:9yKSN-GCB0IC)
 
-**Academic Stuff**
+**Academic Stuff**<br>
 For those interested in applied econometrics using R - I have a series of applied problem sets from the Stock & Watson Textbook available [here](https://github.com/zaeendesouza/econometric-methods) and slides on data visualisation using ```ggplot``` [here](https://github.com/zaeendesouza/ggplotworkshop)
  
 📢 You can follow me on twitter [@zaeendesouza](https://twitter.com/zaeendesouza?lang=en).
