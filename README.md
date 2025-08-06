@@ -1,14 +1,14 @@
 ### Hi, i'm Zaeen 👋
 I'm currently based in West Africa (The Gambia). I work as a technical assistant and economist as part of the [ODI Fellowship](https://odi.org/en/fellowship-scheme/). Prior to this, I worked in a international development consultancy firm (with the Global Health & Education portfolio), where I focused on impact evaluation and M&E. I also worked at the [Centre for Sustainable Employment](https://azimpremjiuniversity.edu.in/cse). I love economics---specifically, applied econometrics, labour and the microeconomics of development and I am passionate about using data and causal inference to better understand our world. I enjoy making, using and learning from the different digital public goods that people make and share. I also enjoy data visualisation 🎨, graphs 📈 and pretty presentations 👩‍🏫. You can view my academic research [here](https://scholar.google.com/citations?user=kParvqgAAAAJ&hl=en). A new working paper is available [here](https://drive.google.com/file/d/1XG1dQUbuA_t10AhTuruqfNNvXQ3VjBkE/view)!
 
-**I'm passionate about:**  
+#### I'm passionate about  
 ✔️ Arsenal FC 🔴  
 ✔️ Research methods & research design 📄  
 ✔️ Teaching R & Stata 💻  
 ✔️ Labour economics & applied econometrics 🤓    
 ✔️ Supporting my local gin & tonic industry 🍸  
  
-**Some public goods that I have created/co-created** <br>
+#### Some public goods that I have created/co-created
 Here are some of my personal contributions to the world of digital public goods - they are all built either in ```R``` or ```Stata```. All the ```RShiny``` apps are freely accessible, while Stata packages can be installed via ssc.
 
 #### RShiny
