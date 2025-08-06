@@ -25,5 +25,3 @@ Here are some of my personal contributions to the world of digital public goods 
 
 #### Academic Stuff
 For those interested in applied econometrics using R - I have a series of applied problem sets from the Stock & Watson Textbook available [here](https://github.com/zaeendesouza/econometric-methods) and slides on data visualisation using ```ggplot``` [here](https://github.com/zaeendesouza/ggplotworkshop)
- 
-📢 You can follow me on twitter [@zaeendesouza](https://twitter.com/zaeendesouza?lang=en).
