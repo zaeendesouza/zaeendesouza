@@ -9,7 +9,7 @@ I'm currently based in West Africa (The Gambia). I work as a technical assistant
 ✔️ Research methods & research design 📄  
 ✔️ Teaching `R` & `Stata` 💻  
 ✔️ Labour economics, applied econometrics & development 🤓    
-✔️ Supporting my local gin & tonic industry 🍸  
+✔️ Supporting my local Negroni industry 🥃
  
 #### Some public goods that I have created/co-created
 Here are some of my personal contributions to the world of digital public goods - they are all built either in ```R``` or ```Stata```. All the ```RShiny``` apps are freely accessible, while Stata packages can be installed via ssc.
