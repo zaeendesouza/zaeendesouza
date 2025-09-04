@@ -25,7 +25,5 @@ Here are some of my personal contributions to the world of digital public goods 
 3. **[MEAN_CI_PLOT](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:d1gkVwhDpl0C)**: `mean_ci_plot` offers a user-friendly command for visualizing means and confidence intervals of specified variables, with an option for disaggregation.
 4. **[PLOT_CONFIDENTLY](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kParvqgAAAAJ&citation_for_view=kParvqgAAAAJ:9yKSN-GCB0IC)**: `plot_confidently` allows users to visualize the mean and confidence interval of a specified variable, with options for up to two levels of disaggregation.
 
----
-
 #### Academic Stuff
 For those interested in applied econometrics using R - I have a series of applied problem sets from the Stock & Watson Textbook available [here](https://github.com/zaeendesouza/econometric-methods) and slides on data visualisation using ```ggplot``` [here](https://github.com/zaeendesouza/ggplotworkshop).
