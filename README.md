@@ -1,3 +1,6 @@
+<img width="980" height="230" alt="Untitled image_2025 09 04_X-Design" src="https://github.com/user-attachments/assets/11d6d1b3-26d0-4ff4-a095-ca4e810786d5" />
+
+
 ### Hi, i'm Zaeen 👋
 I'm currently based in West Africa (The Gambia). I work as a technical assistant, economist and [ODI Fellow](https://odi.org/en/fellowship-scheme/). Prior to this, I worked in a international development consultancy firm (with the Global Health & Education portfolio), where I focused on impact evaluation and M&E. I also worked at the [Centre for Sustainable Employment](https://azimpremjiuniversity.edu.in/cse). I love economics - specifically, applied econometrics, labour and the microeconomics of development and I am passionate about using data and causal inference to better understand our world. I enjoy making, using and learning from the different digital public goods that people make and share. I also enjoy data visualisation 🎨, graphs 📈 and neat presentations 👩‍🏫. You can view my academic research [here](https://scholar.google.com/citations?user=kParvqgAAAAJ&hl=en). **I have a new working paper, co-authored with [Anand Srivastava](https://sites.google.com/site/anandshrivastava1984/) and [Girish Bahal](https://www.girishbahal.com/), that can be viewed [here](https://drive.google.com/file/d/1XG1dQUbuA_t10AhTuruqfNNvXQ3VjBkE/view)!**
 
